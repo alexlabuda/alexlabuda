@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alex <img src="https://em-content.zobj.net/source/joypixels-animations/368/waving-hand_1f44b.gif" width="25">
 
 <!--
 **alexlabuda/alexlabuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
